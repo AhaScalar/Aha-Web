@@ -5,8 +5,10 @@ My goal was to provide a smoother and more reliable experience.
 
 ## ✨ Features
 
-- **🔐 **Responsive & fast**
-- **💸 **Free to use!**
+- 🚅 **Responsive & fast**
+- 💸 **Free to use!**
+- 🔐 **No data saved!**
+- 👵🏻 **Easy to use!**
 
 ## ❓ Frequently Asked Questions (FAQ) 
 
