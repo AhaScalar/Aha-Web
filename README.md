@@ -2,8 +2,8 @@
 
 ## 💡 Overview
 
-I created Aha Halo Reborn as an alternative to the official software, which many users know can be slow, prone to crashes, and often suffers from stuttering. 
-My goal was to provide a smoother and more reliable experience. 
+Aha Halo Reborn is an alternative to the official software, which many users know can be slow, prone to crashes, and often suffers from stuttering with bad support or even none. 
+Our goal was to provide a smoother and more reliable experience. 
 
 ## ✨ Features
 
