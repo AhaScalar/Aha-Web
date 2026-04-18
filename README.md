@@ -7,8 +7,9 @@ Our goal was to provide a smoother and more reliable experience.
 
 ## ✨ Features
 
-- 🚅 **Responsive & fast**
+- 🚅 **Responsive & fast!**
 - 💸 **Free to use!**
+- ⛏ **No installation required!**
 - 🔐 **No data saved!**
 - 👵🏻 **Easy to use!**
 
