@@ -68,4 +68,4 @@ Open [this link](http://ahascalar.github.io/Aha-Web/) to use the app in your bro
 
 ## 📞 Contact
 
-Join [our Telegram](t.me/ahascalar) to contact us!
+Join [our Telegram](http://t.me/ahascalar) to contact us!
